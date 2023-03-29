@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Supermercados>
+    <nombre>Gadis</nombre>
+    <dirección>Av. Ramón Canosa, s/n, 27850, Viveiro, Lugo</dirección>
+    <geolocalización>43.715659970516484, -7.584093802575816</geolocalización>
+    <departamento>
+      <Panadería>
+        <producto>barra de pan</producto>
+        <oferta>-10%</oferta>
+        <periododevigencia>30 de Marzo</periododevigencia>
+        <unidad>2</unidad>
+        <unidaddemedida>gramos</unidaddemedida>
+        <precio>1.20€</precio>
+        <productohabitual>true</productohabitual>
+        <productoadquirido>true</productoadquirido>
+      </Panadería>
+    </departamento>
+    <departamento>
+      <Frutería>
+        <producto>manzanas</producto>
+        <oferta>-5%</oferta>
+        <periododevigencia>1 de Mayo</periododevigencia>
+        <unidad>15</unidad>
+        <unidaddemedida>kg</unidaddemedida>
+        <precio>2.45€</precio>
+        <productohabitual>true</productohabitual>
+        <productoadquirido>false</productoadquirido>
+      </Frutería>
+    </departamento>
+    <departamento>
+      <Limpieza>
+        <producto>detergente líquido</producto>
+        <oferta>Sin oferta</oferta>
+        <periododevigencia>No caduca</periododevigencia>
+        <unidad>1</unidad>
+        <unidaddemedida>Litros</unidaddemedida>
+        <precio>4.85€</precio>
+        <productohabitual>false</productohabitual>
+        <productoadquirido>true</productoadquirido>
+      </Limpieza>
+    </departamento>
+  </Supermercados>
+  <Supermercados>
+    <nombre>Mercadona</nombre>
+    <dirección>Av. Álvaro Cunqueiro, 60, 27780, Foz, Lugo</dirección>
+    <geolocalización>43.575014717640734, -7.2610306835521525</geolocalización>
+    <departamento>
+      <Congelados>
+        <producto>guisantes</producto>
+        <oferta>2x1</oferta>
+        <periododevigencia>20.10.2028</periododevigencia>
+        <unidad>1</unidad>
+        <unidaddemedida>gramos</unidaddemedida>
+        <precio>0.90€</precio>
+        <productohabitual>false</productohabitual>
+        <productoadquirido>false</productoadquirido>
+      </Congelados>
+    </departamento>
+    <departamento>
+      <Droguería>
+        <producto>champú</producto>
+        <oferta>-15%</oferta>
+        <periodo de vigencia>12 meses abierto</periodo de vigencia>
+        <unidad>1</unidad>
+        <unidaddemedida>gramos</unidaddemedida>
+        <precio>3.50</precio>
+        <productohabitual>true</productohabitual>
+        <productoadquirido>true</productoadquirido>
+      </Droguería>
+    </departamento>
+    <departamento>
+      <Bebidas>
+        <producto>vino blanco</producto>
+        <oferta>Sin oferta</oferta>
+        <periododevigencia>No caduca</periododevigencia>
+        <unidad>1</unidad>
+        <unidaddemedida>Litros</unidaddemedida>
+        <precio>4.85</precio>
+        <productohabitual>true</productohabitual>
+        <productoadquirido>true</productoadquirido>
+      </Bebidas>
+    </departamento>
+  </Supermercados>
+  <Supermercados>
+    <nombre>Día</nombre>
+    <dirección>Rúa Misericordia, 20, 27850, Viveiro, Lugo</dirección>
+    <geolocalización>43.66546916152635, -7.601794262582567</geolocalización>
+    <departamento>
+      <Pescadería>
+        <producto>salmón</producto>
+        <oferta>Sin oferta</oferta>
+        <periododevigencia>2 días</periododevigencia>
+        <unidad>1</unidad>
+        <unidaddemedida>gramos</unidaddemedida>
+        <precio>5.75€</precio>
+        <productohabitual>false</productohabitual>
+        <productoadquirido>true</productoadquirido>
+      </Pescadería>
+    </departamento>
+    <departamento>
+      <Carnicería>
+        <producto>pechugas pollo</producto>
+        <oferta>-30%</oferta>
+        <periododevigencia>Caduca al día siguiente</periododevigencia>
+        <unidad>6</unidad>
+        <unidaddemedida>gramos</unidaddemedida>
+        <precio>4.15€</precio>
+        <productohabitual>true</productohabitual>
+        <productoadquirido>false</productoadquirido>
+      </Carnicería>
+    </departamento>
+    <departamento>
+      <Hogar>
+        <producto>velas</producto>
+        <oferta>3x2</oferta>
+        <periododevigencia>No caduca</periododevigencia>
+        <unidad>2</unidad>
+        <unidaddemedida>gramos</unidaddemedida>
+        <precio>3.95€</precio>
+        <productohabitual>false</productohabitual>
+        <productoadquirido>false</productoadquirido>
+      </Hogar>
+    </departamento>
+  </Supermercados>
+</root>
